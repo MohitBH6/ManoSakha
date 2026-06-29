@@ -1,7 +1,8 @@
 venv/
 server/venv/
+server-flask/venv/
 __pycache__/
 *.pyc
 node_modules/
+dist/
 .env
-server-flask/venv/
